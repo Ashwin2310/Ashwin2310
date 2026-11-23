@@ -8,8 +8,12 @@
 
 ## ⭐ Featured
 
+<a href="https://ashwin2310.github.io/one-app-a-day/"><img src="assets/one-app-a-day-cover.png" alt="One App a Day: a new web app every day, each with a write-up of the problem it solves"></a>
+
 ### [One App a Day](https://github.com/Ashwin2310/one-app-a-day)
-A new single-page web app every day. Each one goes from idea to storyboard to build, is tested in a headless browser, and is published with a write-up of the problem it solves. **[Browse the live gallery →](https://ashwin2310.github.io/one-app-a-day/)**
+A new single-page web app every day: algorithms and in-browser AI, design tools, and everyday utilities. Each one goes from idea to storyboard to build, is tested in a headless browser, and is published with a write-up of the problem it solves.
+
+**[▶ Browse the live gallery](https://ashwin2310.github.io/one-app-a-day/)** · **[📂 Code and write-ups](https://github.com/Ashwin2310/one-app-a-day)**
 
 ## 🧠 Algorithms & AI
 
